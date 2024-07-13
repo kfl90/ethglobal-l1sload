@@ -1,6 +1,8 @@
-# Femplate
+# L1Sload Ownable Validator
 
-**A Foundry template for Rhinestone Projects**
+**ERC-7579 Ownable Validator that is synced across chains**
+
+The Module uses L1Sload to read the module configuration from the L1 chain and use it on the L2 chain.
 
 ## Using this repo
 
@@ -21,7 +23,3 @@ To run the tests, run:
 ```bash
 pnpm test
 ```
-
-## Contributing
-
-For feature or change requests, feel free to open a PR, start a discussion or get in touch with us.
