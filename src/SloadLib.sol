@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-only
+pragma solidity ^0.8.25;
+
 import "./interfaces/IL1Blocks.sol";
 import { FlatBytesLib } from "@rhinestone/flatbytes/src/BytesLib.sol";
 

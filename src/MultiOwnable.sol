@@ -10,8 +10,6 @@ import { ECDSA } from "solady/utils/ECDSA.sol";
 import { FlatBytesLib } from "@rhinestone/flatbytes/src/BytesLib.sol";
 import "./SloadLib.sol";
 
-import "forge-std/console2.sol";
-
 /**
  * @title OwnableValidator
  * @dev Module that allows users to designate EOA owners that can validate transactions using a
